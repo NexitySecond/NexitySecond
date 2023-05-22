@@ -19,6 +19,10 @@ Q: What are you doing\
 A: I force electron to do logic and math on a rock, maybe some photon or weird particle in future\
 Q: What project you've been done\
 A: [List Of Project](list-of-project.md)\
+Q: What do you contribute to society\
+A: I am tech support for people asking about my code in past threads
+    not an asshole that gives up after getting asked 3 questions
+    share knowledge around for people to learn
 Q: Are you a who are you\
 A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b6-3fa1-4ab9-a5cc-dfa13190f642)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/ddc5a767-e2c1-4d04-8db2-303b9d99537d)
@@ -45,6 +49,16 @@ A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/a1619eeb-c28e-4e82-b7ec-6a2b9a14c2df)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/8c168503-2fd0-4bb6-81c9-f7111291a21c)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/2750d60d-98b1-414a-a77b-7e8aea861795)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/dc2f694c-20fb-4ccb-8d61-0967b207cd94)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/7eecafdb-75b7-4e18-9175-caa025304ef7)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/12f3e942-9b67-4017-9d8a-5ac5ee8f94b9)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/20ddb7da-cab9-4e4d-b85f-4fa74f87a45b)
+
+
+
+
+
+
 
 ![gay](https://cdn.discordapp.com/attachments/734043019665473627/752143437272449125/IMG_20200906_192838.jpg)
 
