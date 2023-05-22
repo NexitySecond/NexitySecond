@@ -1,5 +1,6 @@
 # About Me
 * [List Of Project](list-of-project.md)
+* [Achievements](https://github.com/o7-Fire/Achievements)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NexitySecond&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
