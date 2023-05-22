@@ -52,6 +52,9 @@ A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/dc2f694c-20fb-4ccb-8d61-0967b207cd94)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/7eecafdb-75b7-4e18-9175-caa025304ef7)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/12f3e942-9b67-4017-9d8a-5ac5ee8f94b9)
+
+# My Personality
+
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/20ddb7da-cab9-4e4d-b85f-4fa74f87a45b)
 
 
