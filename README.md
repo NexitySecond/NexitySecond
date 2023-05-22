@@ -20,9 +20,9 @@ A: I force electron to do logic and math on a rock, maybe some photon or weird p
 Q: What project you've been done\
 A: [List Of Project](list-of-project.md)\
 Q: What do you contribute to society\
-A: I am tech support for people asking about my code in past threads
-    not an asshole that gives up after getting asked 3 questions
-    share knowledge around for people to learn
+A: I am tech support for people asking about my code in past threads\
+    not an asshole that gives up after getting asked 3 questions\
+    share knowledge around for people to learn\
 Q: Are you a who are you\
 A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b6-3fa1-4ab9-a5cc-dfa13190f642)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/ddc5a767-e2c1-4d04-8db2-303b9d99537d)
