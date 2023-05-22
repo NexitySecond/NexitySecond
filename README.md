@@ -17,10 +17,32 @@ Q: What are you doing\
 A: I force electron to do logic and math on a rock, maybe some photon or weird particle in future\
 Q: What project you've been done\
 A: [List Of Project](list-of-project.md)\
-Q: Are you a hacker\
-A: ![image](https://user-images.githubusercontent.com/49940811/122752715-9497cf80-d291-11eb-9a63-1879426ef251.png)
-
-
+Q: Are you a who are you\
+A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b6-3fa1-4ab9-a5cc-dfa13190f642)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/ddc5a767-e2c1-4d04-8db2-303b9d99537d)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/bcfaab74-ae36-4f15-b0cb-6d47348b7d71)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/4ddf93cd-0965-4f23-b8ea-6bf7a34edb68)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/7176c162-9711-465d-9642-17623293e174)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/8c3ef341-5203-41cc-ad17-468208296d1e)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/d8f0acd7-88dc-4195-894c-ada9396d9e1d)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/c89fe6fe-82b8-45d8-87a1-3be03d64124c)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/57ccfc68-8460-4277-af2a-faa3bff4231b)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/faf1e245-27df-4e01-93c3-817a61aa4c79)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/27f3ac24-0589-498c-8d3c-e33ab83e362a)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/5fe78e7e-2b66-4c7f-bc21-b93fc578f224)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/fa47e547-5a5d-4c67-a3bd-54b4cad74747)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/699f8f26-94d9-4b32-b765-525dd1a5f97c)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/9c8c5cd4-b420-464e-a3f9-3bbc486404c8)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/b4ef5774-6e60-46f6-9efe-2f784e737701)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/af56d4e8-e797-4f90-97cc-f3ab38ab3347)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/0a415cbd-86ee-4e9a-a8bf-77e7cf764237)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/853d428d-71c5-4265-ade6-fa14443cbb52)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/fecce88d-fe9f-470d-8e9d-e18a8ead5cff)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/a3cd574a-f328-43bb-a3f3-b8d30449e119)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/cddb984f-2507-4899-9037-63e675bd2ddf)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/a1619eeb-c28e-4e82-b7ec-6a2b9a14c2df)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/8c168503-2fd0-4bb6-81c9-f7111291a21c)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/2750d60d-98b1-414a-a77b-7e8aea861795)
 
 ![gay](https://cdn.discordapp.com/attachments/734043019665473627/752143437272449125/IMG_20200906_192838.jpg)
 
