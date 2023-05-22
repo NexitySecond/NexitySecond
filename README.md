@@ -54,4 +54,4 @@ tbh i don't know what i am
 
 ---
 <h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bsketchyirishman%7D/count.svg" alt="sketchyirishman :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bdonotlistentothefakenexitytheyarefake%7D/count.svg" alt="donotlistentothefakenexitytheyarefake :: Visitor's Count" /></p>
