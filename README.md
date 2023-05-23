@@ -73,10 +73,16 @@ A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/7eecafdb-75b7-4e18-9175-caa025304ef7)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/12f3e942-9b67-4017-9d8a-5ac5ee8f94b9)
 
+# 1 Year Life Span Per Account
+
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/38bff7c3-ea05-49a2-b4b0-e61799d8dc70)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/325ed59d-8d53-4117-bb99-5d26e6140c3e)
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/1251a03a-02ed-4beb-a801-9373bb81e727)
+
+
 # My Personality
 
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/20ddb7da-cab9-4e4d-b85f-4fa74f87a45b)
-
 
 
 
