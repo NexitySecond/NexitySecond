@@ -1,3 +1,14 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=NexitySecond&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NexitySecond&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexitySecond&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NexitySecond&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bdonotlistentothefakenexitytheyarefake%7D/count.svg" alt="donotlistentothefakenexitytheyarefake :: Visitor's Count" /></p>
+
 # My Project (Yes)
 - [Project NBot](https://github.com/o7-Fire/General/tree/master/Projects/Project-NBot) - Python, Flask, Javascript, Mineflayer, minecraft pvp bot hivemind using mineflayer pathfinding
 - [PrntSc Bruteforcing](https://github.com/o7-Fire/General/tree/master/Projects/Project-PrntSc) - Python, Requests, bruteforces prntsc links to find hidden content
@@ -21,17 +32,6 @@
 # Other/More Project
 - [Achievements](https://github.com/o7-Fire/Achievements)
 - See the other account
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NexitySecond&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=NexitySecond&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NexitySecond&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NexitySecond&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bdonotlistentothefakenexitytheyarefake%7D/count.svg" alt="donotlistentothefakenexitytheyarefake :: Visitor's Count" /></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Q&A
