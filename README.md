@@ -30,7 +30,7 @@
 - [Mindustry-Ozone](https://github.com/o7-Fire/Ozone-Mindustry) - Java, Custom Game Client for Mindustry
 
 # My Papers
-- [Nature of Plane Crazy Exploiting](https://github.com/NexitySecond/dumpster/blob/main/Nature%20of%20Plane%20Crazy%20Exploiting%2C%20Nexity%20Second.pdf)
+- [Nature of Plane Crazy Exploiting](https://github.com/NexitySecond/dumpster/blob/main/Nature%20of%20Plane%20Crazy%20Exploiting%2C%20Nexity%20Second%20Revision%201.2.pdf)
 # Other/More Project
 - [Achievements](https://github.com/o7-Fire/Achievements)
 - See the other account
