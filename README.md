@@ -81,6 +81,10 @@ A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/325ed59d-8d53-4117-bb99-5d26e6140c3e)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/1251a03a-02ed-4beb-a801-9373bb81e727)
 
+# Hey man what happened to the first Nexity
+
+200k commits within 10 days: \
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/bbe20607-ada4-4000-8176-d3ca664bcffd)
 
 # My Personality
 
