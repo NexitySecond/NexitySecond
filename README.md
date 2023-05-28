@@ -39,8 +39,6 @@
 # Q&A
 Q: What are you doing\
 A: I force electron to do logic and math on a rock, maybe some photon or weird particle in future\
-Q: What project you've been done\
-A: [List Of Project](list-of-project.md)\
 Q: What do you contribute to society\
 A: I am tech support for people asking about my code in past threads\
     not an asshole that gives up after getting asked 3 questions\
