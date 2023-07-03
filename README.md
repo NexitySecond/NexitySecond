@@ -44,7 +44,8 @@ A: I am tech support for people asking about my code in past threads\
     not an asshole that gives up after getting asked 3 questions\
     share knowledge around for people to learn\
 Q: Are you a who are you\
-A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b6-3fa1-4ab9-a5cc-dfa13190f642)
+A: \
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b6-3fa1-4ab9-a5cc-dfa13190f642)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/ddc5a767-e2c1-4d04-8db2-303b9d99537d)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/bcfaab74-ae36-4f15-b0cb-6d47348b7d71)
 ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/4ddf93cd-0965-4f23-b8ea-6bf7a34edb68)
@@ -86,13 +87,16 @@ A: ![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6cffd2b
 
 # My Personality
 
-![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/20ddb7da-cab9-4e4d-b85f-4fa74f87a45b)
-
-
-
-
-
-
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/20ddb7da-cab9-4e4d-b85f-4fa74f87a45b) \
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/b07cfb38-fe86-42cc-b6e6-c97fb5519c10) \
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/6779b9a4-5936-4e18-8305-00d95fd5a7e3) \
+![image](https://github.com/NexitySecond/NexitySecond/assets/89518595/b23181db-c8f2-4736-81f7-c3c1f10879f5) \
+\
+\
+\
+\
+\
+\
 ![gay](https://cdn.discordapp.com/attachments/734043019665473627/752143437272449125/IMG_20200906_192838.jpg)
 
 tbh i don't know what i am
